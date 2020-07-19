@@ -6,6 +6,7 @@ A simple chess bot for discord that allows people to play chess with a visual bo
 
 ## Instructions
 
+* Make sure you have at least node v13.9.0 installed.
 * Clone this repo.
 * Create a discord application (and make it a bot) through here: https://discord.com/developers/applications
 * Invite the new bot to your server with: https://discordapp.com/oauth2/authorize?&client_id=CLIENT_ID&scope=bot&permissions=0 where `CLIENT_ID` is your application's CLIENT_ID.

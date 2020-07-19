@@ -4,6 +4,7 @@
   "description": "A simple chess bot for discord that allows people to play chess with a visual board.",
   "main": "index.js",
   "type": "module",
+  "engines" : { "node" : ">=13.9.0" },
   "dependencies": {
     "canvas": "^2.6.1",
     "discord.js": "^12.1.1",
